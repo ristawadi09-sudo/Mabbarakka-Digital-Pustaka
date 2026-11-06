@@ -1,0 +1,10 @@
+{
+  "name": "Remix Mabbarakka Library System",
+  "description": "Integrated school library management with barcode scanning, automated notifications, digital catalogs, and real-time analytical dashboards for efficient operations.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
